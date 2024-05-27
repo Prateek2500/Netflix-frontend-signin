@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    border: 0px;
+    width: 1140px;
+    
+}
+
+#section1{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 22%, rgba(0, 0, 0, .3) 70%, rgba(0, 0, 0, 0.8) 90%), url(./netflix_bg.jpg) 57% 72%;
+    width: 1260px;
+    height: 99vh;
+    display: block;
+    
+    
+}
+
+.navbar{
+    display: flex;
+    position: relative;
+    flex-wrap: nowrap;
+}
+
+#logo{
+    width: 18%;
+}
+
+.container{
+    display: flex;
+    
+    
+}
+
+
+
+.mt-2{
+    margin-top: 0.5rem!important;
+}
+
+.mx-5{
+    margin-right: 3rem!important;
+    margin-left: 3rem!important;
+
+}
+
+hr{
+    width: 1263px;
+}
+
+.heading{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.sections{
+    height: 80vh;
+    width: 1263px;
+    
+}
+
+.box1{
+    height: 7rem;
+    width: 22rem;
+    left: 20%;
+    
+}
+
+.accordion{
+    width: 1000px;
+    margin-left: 100px;
+    
+}
+
